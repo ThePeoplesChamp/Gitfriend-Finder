@@ -7,5 +7,6 @@ App to search Github users and display their info.
 ```
 npm install
 ```
+```
 npm start
 ```

@@ -2,11 +2,7 @@
 
 App to search Github users and display their info.
 
-## Usage
+## Built Using
 
-```
-npm install
-```
-```
-npm start
-```
+React, Tailwind CSS, DaisyUI
+
